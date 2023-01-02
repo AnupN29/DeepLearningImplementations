@@ -1,0 +1,1 @@
+## Implemented a Convolutional Neural Network to train and test on CIFAR10 dataset. Also implemented transfer learning udung pretrained VGG16 model and compared the accuracy with earlier implemented model.
